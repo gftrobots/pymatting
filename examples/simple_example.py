@@ -6,5 +6,5 @@ cutout(
     # input trimap path
     "../data/lemur/lemur_trimap.png",
     # output cutout path
-    "lemur_cutout.png",
+    "mk.png",
 )
